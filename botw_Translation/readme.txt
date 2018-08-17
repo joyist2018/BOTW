@@ -1,3 +1,5 @@
+botw_Translation是塞尔达旷野之息的中文汉化项目
+
 export_txt目录——包含2个程序“export_txt.exe”和“export_init.exe”
 
    export_txt.exe ——程序功能：
