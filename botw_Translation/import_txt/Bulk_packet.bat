@@ -1,0 +1,1 @@
+for /d %%i in (*) do SARCPack.py %%i

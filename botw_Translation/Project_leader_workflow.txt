@@ -1,0 +1,7 @@
+项目负责人工作流程
+
+1. 从普通用户得到patch.xls，放到import_txt目录下
+
+2. 执行patch.bat，生成新的 zelda breath of the wild.xls
+
+3. 执行import.bat 生成中文msbt
