@@ -2,7 +2,9 @@ botw_Translation是塞尔达旷野之息的中文汉化项目
 我的网站:[http://chdong.top/]
 BOTW主站:[http://game.cgcss.com/]
 
+GitHub分发[https://github.com/joyist2018/BOTW/]
 码云分发:[https://gitee.com/joyist2019/BOTW]
+
 
 export_txt目录——包含2个程序“export_txt.exe”和“export_init.exe”
 
